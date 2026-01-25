@@ -1,8 +1,10 @@
 <div align="center">
-  <h2>👨‍💻 ASP.NET Developer | Backend Engineer</h2>
-  🚀 <b>Currently:</b> Refining portfolio projects to demonstrate Clean Architecture and functional design.<br/>
-  🛠️ <b>Focus:</b> Deep diving into ASP.NET Core, Web API, and EF Core for high-performance backend development.<br/>
-  💎 <b>Principles:</b> Mastering Clean Code and Design Patterns to build maintainable and efficient software.
+  <h1>👨‍💻 Vasyl | ASP.NET Developer</h1>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Clean%20Code-Solutions-blue?style=flat-square">
+    <img src="https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=.net">
+    <img src="https://img.shields.io/badge/Architecture-Clean-green?style=flat-square">
+  </p>
 </div>
 
 ## 🛠 Tech Stack
@@ -22,6 +24,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NemeSo1&show_icons=true&count_private=true&theme=react&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NemeSo1&layout=compact&theme=react&hide_border=true" />
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr border="0">
+      <td style="border: none;">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NemeSo1&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0078D4" />
+      </td>
+      <td style="border: none;">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NemeSo1&layout=compact&theme=react&hide_border=true&title_color=0078D4" />
+      </td>
+    </tr>
+  </table>
 </div>
