@@ -26,10 +26,10 @@
   <table border="0" cellpadding="0" cellspacing="0">
     <tr border="0">
       <td style="border: none;">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=NemeSo1&show_icons=true&cache_seconds=14400&count_private=true&theme=react&hide_border=true&title_color=0078D4" />
+        <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NemeSo1&show_icons=true&cache_seconds=14400&count_private=true&theme=react&hide_border=true&title_color=0078D4" />
       </td>
       <td style="border: none;">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NemeSo1&cache_seconds=14400&layout=compact&theme=react&hide_border=true&title_color=0078D4&count_private=true" />
+        <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NemeSo1&cache_seconds=14400&layout=compact&theme=react&hide_border=true&title_color=0078D4&count_private=true" />
       </td>
     </tr>
   </table>
